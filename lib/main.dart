@@ -5,7 +5,7 @@ import 'package:firebase_database/firebase_database.dart';
 import 'FirebaseMessagingDemo.dart';
 import 'firebase_options.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // Import FirebaseAuth
-import 'LoginSignupPage.dart'; // Import your login/signup page
+import 'SignUpPage.dart'; // Import your login/signup page
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
@@ -49,7 +49,7 @@ class AuthenticationWrapper extends StatelessWidget {
             return const MyHomePage();
           } else {
             // If the user is not authenticated, show the login/signup page
-            return const LoginSignupPage();
+              return const SignUpPage();
           }
         }
       },

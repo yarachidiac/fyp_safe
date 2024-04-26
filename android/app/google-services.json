@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "663100452712",
+    "firebase_url": "https://fyp-safe-415110-default-rtdb.firebaseio.com",
+    "project_id": "fyp-safe-415110",
+    "storage_bucket": "fyp-safe-415110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663100452712:android:0a6b26af995a14a51870dd",
+        "android_client_info": {
+          "package_name": "com.example.fyp_safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBII92b5wNn3xI177FCkJVRcdwj0_uxl6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

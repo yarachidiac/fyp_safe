@@ -38,6 +38,7 @@ dependencies:
   path_provider:
   image:
   camera:
+  flutter_local_notifications:
 
 
   # The following adds the Cupertino Icons font to your application.
